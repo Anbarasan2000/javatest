@@ -7,6 +7,10 @@ public class Details {
 		System.out.println("empname is:anbu");
 		System.out.println("empname is:anbu");
 		System.out.println("empname is:anbu");
+		
+		System.out.println(33);
+		System.out.println(44);
+		
 
 	}
 	
